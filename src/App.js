@@ -5,7 +5,8 @@ import MovieCard from "./MovieCard";
 
 
 //  8622df91
-const API_URL = 'http://www.omdbapi.com/?apikey=8622df91';
+// Updated API_URL to use https instead of http
+const API_URL = 'https://www.omdbapi.com/?apikey=8622df91';
 
 const movie1 = {
     "Title": "Spiderman",
